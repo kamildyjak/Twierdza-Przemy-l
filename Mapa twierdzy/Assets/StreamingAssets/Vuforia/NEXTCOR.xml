@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mapa_marker_final_new5" size="2.000000 1.278320" />
+    <ImageTarget name="Mapa_twierdzy_final_new3" size="2.000000 1.276762" />
+  </Tracking>
+</QCARConfig>
